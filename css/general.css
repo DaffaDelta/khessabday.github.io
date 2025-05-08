@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.border {
+    background-color: white;
+    height: 60px;
+    border-top: 3px solid #996E6D;
+    border-bottom: 3px solid #996E6D;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 2px;
+}
+
+.border p {
+    font-family: "Raleway", sans-serif;
+    font-size: 30px;
+    color: #996E6D;
+}
